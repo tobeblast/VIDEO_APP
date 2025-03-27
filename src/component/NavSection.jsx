@@ -5,7 +5,7 @@ export function NavSection() {
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-black py-4 fixed-top">
-        <div className="container text-white">
+        <div iName="container text-white">
           <a className="navbar-brand" href="#">
             <i className="fa-solid fa-tv fs-3 text-white"></i>
           </a>
